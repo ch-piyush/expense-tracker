@@ -1,4 +1,6 @@
 # expense-tracker
-A website that tracks the expense of a user.
-Please download the raw video in the video directory to view the working of the project
-https://github.com/user-attachments/assets/8453231a-c7d2-47ff-9595-505692c3362d
+A website that tracks the expense of a user based on the category 
+
+
+https://github.com/user-attachments/assets/a2256532-d48a-463b-a987-55bf84d3ac5c
+
